@@ -6,5 +6,6 @@ public class Main {
         car.getId();
         car.getId();
         car.getId();
+        car.getId();
     }
 }
