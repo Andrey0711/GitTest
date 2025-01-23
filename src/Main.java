@@ -9,5 +9,7 @@ public class Main {
         car.getId();
         car.setAuthor("Andreu");
         car.setAuthor("Andreu");
+        car.setAuthor("Andreu");
+        car.setAuthor("Andreu");
     }
 }
