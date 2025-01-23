@@ -3,5 +3,8 @@ public class Main {
         Car car = new Car();
         car.setAuthor("Andrey");
         car.getAuthor();
+        car.getId();
+        car.getId();
+        car.getId();
     }
 }
