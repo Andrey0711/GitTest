@@ -14,5 +14,8 @@ public class Main {
         car.setAuthor("Andreyuuuuuuuu");
         car.setAuthor("Andreuyyyuuyuy");
         car.setAuthor("Andreuyyyuuyuy");
+        String str = "lg700444@gmail.com";
+        boolean isEmail = str.matches("[a-zA-z0-9]+@[a-zA-z0-9]+\\.(com|ru)");
+        System.out.println(isEmail);
     }
 }
