@@ -13,5 +13,6 @@ public class Main {
         car.setAuthor("Andreuu");
         car.setAuthor("Andreyuuuuuuuu");
         car.setAuthor("Andreuyyyuuyuy");
+        car.setAuthor("Andreuyyyuuyuy");
     }
 }
