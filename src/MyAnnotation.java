@@ -4,7 +4,6 @@ import java.lang.annotation.RetentionPolicy;
 import java.lang.annotation.Target;
 
 @Target({ElementType.TYPE, ElementType.METHOD})
-@Retention(RetentionPolicy.RUNTIME)
 public @interface MyAnnotation {
     String author() default "Andrei";
     int dateOfCreationAnnotation() default 1234123;
