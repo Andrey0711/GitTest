@@ -10,8 +10,8 @@ public class Main {
         car.setAuthor("Andreu");
         car.setAuthor("Andreu");
         car.setAuthor("Andreu");
-        car.setAuthor("Andreu");
-        car.setAuthor("Andrey");
+        car.setAuthor("Andreuu");
+        car.setAuthor("Andreyuuuuuuuu");
         car.setAuthor("Andreuyyyuuyuy");
     }
 }
